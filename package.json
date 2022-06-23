@@ -1,0 +1,22 @@
+{
+  "name": "week11-2-preclass-drill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whyseverythingtaken/week11-2-preclass-drill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Whyseverythingtaken/week11-2-preclass-drill/issues"
+  },
+  "homepage": "https://github.com/Whyseverythingtaken/week11-2-preclass-drill#readme",
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
+}
