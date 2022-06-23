@@ -24,7 +24,7 @@ describe("applyCallback", () => {
 
   it("It should return [2,3,4] when supplied with + function", () => {
     const additionFunction = function (num) {
-      return num + 2;
+      return num + 1;
     };
     const result = applyCallback([1, 2, 3], additionFunction);
 
